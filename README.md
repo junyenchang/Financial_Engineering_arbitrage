@@ -1,7 +1,7 @@
 # S&P500選擇權套利實作
 
 ### 抓取資料
-
+https://hackmd.io/@s97302/HkwFoIZ5n
 由WRDS取得2023/01/18~02/15的選擇權資料，存為csv檔案
 
 並且從 investing.com 取得S&P500的指數和期貨資料
